@@ -1,20 +1,20 @@
 # Calculator
 
-A web‑based calculator with basic arithmetic operations and a clean user interface.  
+A web-based calculator with basic arithmetic operations and a clean user interface.  
 Built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-## 🧮 Features
+## Features
 
-✔ Addition, Subtraction, Multiplication, Division  
-✔ Clear (C) and Equal (=) button  
-✔ Easy to read UI  
-✔ Works in modern browsers  
+  Addition, Subtraction, Multiplication, Division  
+  Clear (C) and Equal (=) button  
+  Modern and clean UI design  
+  Works in modern browsers  
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML  
 - CSS  
@@ -22,7 +22,7 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-## 📌 How to Use
+##  How to Use
 
 1. Clone the repository:
    ```bash
